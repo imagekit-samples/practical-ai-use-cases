@@ -1,4 +1,4 @@
-# ImageKit AI and GenAI Transformations
+# Practical use of ImageKit AI and GenAI Transformations
 
 This project demonstrates how to use ImageKit's AI and GenAI transformations to create production-ready images. Below are examples of different transformations applied to images for various use cases.
 
